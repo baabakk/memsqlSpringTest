@@ -1,0 +1,12 @@
+com\abbaschian\memsqlTest\models\EntityAttributeValue.class
+com\abbaschian\memsqlTest\MemsqlTestApplication.class
+com\abbaschian\memsqlTest\repositories\EntityRepository.class
+com\abbaschian\memsqlTest\models\EntityTypeAttributeValue.class
+com\abbaschian\memsqlTest\services\EntityService.class
+com\abbaschian\memsqlTest\models\EntityType.class
+com\abbaschian\memsqlTest\controllers\EntityController.class
+com\abbaschian\memsqlTest\models\Product.class
+com\abbaschian\memsqlTest\models\Entity.class
+com\abbaschian\memsqlTest\models\Value.class
+com\abbaschian\memsqlTest\models\Location.class
+com\abbaschian\memsqlTest\models\Attribute.class
